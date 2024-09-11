@@ -14,7 +14,7 @@ Before using it for real certificates, be sure to:
 | <a name="requirement_terraform"></a> [terraform](#requirement_terraform) | >= 1.5.6 |
 | <a name="requirement_local"></a> [local](#requirement_local) | 2.5.2 |
 | <a name="requirement_null"></a> [null](#requirement_null) | 3.2.3 |
-| <a name="requirement_random"></a> [random](#requirement_random) | 3.6.2 |
+| <a name="requirement_random"></a> [random](#requirement_random) | 3.6.3 |
 
 ## Resources
 
@@ -24,7 +24,7 @@ Before using it for real certificates, be sure to:
 | [local_sensitive_file.key_password](https://registry.terraform.io/providers/hashicorp/local/2.5.2/docs/resources/sensitive_file) | resource |
 | [null_resource.generate_csr](https://registry.terraform.io/providers/hashicorp/null/3.2.3/docs/resources/resource) | resource |
 | [null_resource.generate_key](https://registry.terraform.io/providers/hashicorp/null/3.2.3/docs/resources/resource) | resource |
-| [random_password.key_password](https://registry.terraform.io/providers/hashicorp/random/3.6.2/docs/resources/password) | resource |
+| [random_password.key_password](https://registry.terraform.io/providers/hashicorp/random/3.6.3/docs/resources/password) | resource |
 | [local_file.csr_file](https://registry.terraform.io/providers/hashicorp/local/2.5.2/docs/data-sources/file) | data source |
 | [local_sensitive_file.key](https://registry.terraform.io/providers/hashicorp/local/2.5.2/docs/data-sources/sensitive_file) | data source |
 
